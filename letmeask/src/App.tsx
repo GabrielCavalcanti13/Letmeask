@@ -1,11 +1,8 @@
-import {Button} from './components/Button'
+import {NewRoom} from "./pages/NewRoom"
 
 function App() {
   return (
-    <div>
-      <Button text='Botao 1'/>
-      <Button text='Botao 2'/>
-    </div>
+    <NewRoom />
   );
 }
 
