@@ -11,5 +11,4 @@ Website for creating Q&A rooms that I developed during Rocketseat's Next level W
  - Typescript
 
 ### Images
-![Main Page](letmeask/idv/main.png "Main page")
-![Room Page](letmeask/idv/room.png "room page")
+<img src="letmeask/idv/main.PNG" width="400"> <img src="letmeask/idv/room.PNG" width="400">
